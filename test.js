@@ -1,0 +1,1 @@
+console.log("Nhap duoc khong nhi")
